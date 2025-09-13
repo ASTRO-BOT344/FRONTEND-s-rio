@@ -47,7 +47,7 @@ button {
 }
 .caixa, h2 {
     color: #8ECAE6;
-    
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
 
@@ -62,3 +62,4 @@ input[type="text"], input[type="Email"], input[type="tel"], textarea{
 textarea{
     resize: vertical;
 }
+
